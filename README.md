@@ -127,3 +127,6 @@ De la transformation du rôle de l’artiste
 # Question finale
 
 La musique générée par IA menace-t-elle les artistes traditionnelles ou est-ce simplement une nouvelle part de marché qui s'ouvre ?
+
+
+texte généré par IA mais recherche des sources faites par moi-même
