@@ -1,6 +1,3 @@
-# visualDon
-La musique générée par IA : révolution créative ou saturation du marché ?
-
 # Contexte
 
 Ce projet s’intéresse à la place de la musique générée par intelligence artificielle dans l’industrie musicale actuelle. Depuis quelques mois, des outils ultra compétants sont devenus capables de générer des morceaux complets à partir de simples instructions textuelles. Des plateformes comme Suno ou Udio rendent la création musicale accessible à grande échelle, tandis que les plateformes de streaming comme Spotify ou Deezer dominent la distribution et développe ou freine cette création.
