@@ -104,9 +104,11 @@ The Pudding – pour le data storytelling interactif
 
 Rapports annuels de IFPI
 
-Données publiques de Spotify
+Données publiques de Spotify 
+API Spotify 
+https://developer.spotify.com/documentation/web-api
 
-Articles économiques sur l’impact de l’IA dans l’industrie musicale
+Données publiques DEEZER
 
 Analyses académiques sur l’économie de l’attention
 
