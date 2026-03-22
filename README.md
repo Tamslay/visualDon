@@ -132,3 +132,11 @@ La musique générée par IA menace-t-elle les artistes traditionnelles ou est-c
 
 
 texte généré par IA mais recherche des sources faites par moi-même
+
+
+# Maquettes du site internet (lien cliquable)
+https://www.canva.com/design/DAHDjmDcGzI/0VWLFKh6OJS4b92IqgSBSQ/edit?utm_content=DAHDjmDcGzI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+(utiliser le mode "présenter")
+
+Fais sur Canva car ceci m'a permis de faire les animations qui ressemblent à celle que je voudrais vraiment faire sur le site.
+QUE DU SCROLL
